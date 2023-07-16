@@ -1,4 +1,4 @@
-# arcgis_demo_vue
+# credit
 
 ## Project setup
 ```
